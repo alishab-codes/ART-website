@@ -13,5 +13,12 @@ HTML5
 CSS3
 JavaScript 
 
+How to Run This Project
+1-Download the project files (or clone the repository)
+2-Open the folder on your computer
+3-Double-click the file named index.html
+4-The website will open in your browser
+
+
 Author
 Alishba Zahid
