@@ -1,2 +1,17 @@
-# ART-website
-A simple HTML and CSS project displaying different art types , famous paintings and art galleries with clean layout and hover effects.
+⭐ ART Gallery Website
+A responsive and modern art gallery website built using HTML, CSS, and JavaScript.
+This project showcases digital artwork in a clean and visually appealing layout.
+
+Features
+Responsive design for all devices
+Image gallery layout for artworks
+Clean UI with modern styling
+Hover effects and animations
+
+Tech Stack
+HTML5
+CSS3
+JavaScript 
+
+Author
+Alishba Zahid
