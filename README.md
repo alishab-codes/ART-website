@@ -20,5 +20,5 @@ How to Run This Project
 4-The website will open in your browser
 
 
-Author
+Author:
 Alishba Zahid
